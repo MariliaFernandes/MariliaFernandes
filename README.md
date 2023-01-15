@@ -1,4 +1,8 @@
-### Hi there 👋
+### - 👋 Hi, I’m @MariliaFernandes
+- 👀 I’m interested in JavaScript, Bootstrap,Java, Python, HTML, CSS
+- 🌱 I’m currently learning Análise e desenvolvimento de sistemas.
+- 💞️ I’m looking to collaborate on Front-end
+- 📫 How to reach me marilia21fernandes@gmail.com
 
 <!--
 **MariliaFernandes/MariliaFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
