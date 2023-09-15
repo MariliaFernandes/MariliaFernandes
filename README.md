@@ -1,7 +1,7 @@
 ### - 👋 Hi, I’m @MariliaFernandes
-- 👀 I’m interested in JavaScript, Bootstrap,Java, Python, HTML, CSS, PHP
+- 👀 I’m interested in Dart Flutter, JavaScript, Bootstrap, Java, Python, HTML, CSS, PHP..
 - 🌱 I’m currently learning Análise e desenvolvimento de sistemas.
-- 💞️ I’m looking to collaborate on Front-end
+- 💞️ I’m looking to collaborate on Front-end, mobile and back-end.
 - 📫 How to reach me marilia21fernandes@gmail.com
 
 <!--
